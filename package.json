@@ -1,7 +1,7 @@
 {
   "name": "bind-tree-to-property",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create APIs from directories and files.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/bind-tree-to-property.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allnulled/bind-tree-to-property/issues"
+  },
+  "homepage": "https://github.com/allnulled/bind-tree-to-property#readme"
 }
